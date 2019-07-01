@@ -3,6 +3,7 @@ Rencana ide buat skripsi
   * ini rencana yang udah ada programnya
   * tinggal dijalnkan saja
     ^via online
+    ^pakai domain baru
 - Sistem Informasi Pengelola Data Siswa berbasis WEB
     ^via online
 - Sistem Informasi Penerimaan Siswa Baru berbasis WEB
