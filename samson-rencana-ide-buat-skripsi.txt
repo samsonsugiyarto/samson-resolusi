@@ -5,3 +5,4 @@ Rencana ide buat skripsi
 - Sistem Informasi Pengelola Data Siswa berbasis WEB
 - Sistem Informasi Penerimaan Siswa Baru berbasis WEB
 - Sistem informasi Perpustakaan berbasis WEB
+- Sistem pakar penyakit diabetes berbasis WEB
